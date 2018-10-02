@@ -1,0 +1,14 @@
+{
+  "name": "devops-node",
+  "version": "1.0.0",
+  "description": "Basic Node App for DevOps Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek <abhishek@box8.in>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
